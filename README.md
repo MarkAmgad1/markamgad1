@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Mark Amgad
 
-<!--
-**markamgad1234/markamgad1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Graduate** from Pharos University in Alexandria  
+💡 Passionate about building smart, scalable, and impactful tech solutions  
+📱 Specialized in **Flutter**, **Firebase**, **Python**, and **AI/ML**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+
+- **Languages**: Dart, Python, C++, Java, HTML, CSS, JavaScript  
+- **Frameworks & Tools**: Flutter, Firebase, Qt, TensorFlow, scikit-learn  
+- **Databases**: Firestore, Realtime Database, MySQL  
+- **Testing**: Katalon Studio  
+- **Version Control**: Git & GitHub  
+- **Other**: REST APIs, HL7 Messaging, Object Detection, Automation Scripts
+
+---
+
+## 🚀 Projects
+
+### 🏥 MediLink – Graduation Project  
+Secure mobile & web system for prescription tracking with:
+- Doctor & pharmacist roles
+- OTP-based patient verification
+- AI-based survey analysis
+- Firebase backend + HL7 medical messaging
+
+### 📱 PetCare App  
+Flutter app to track pet vaccinations and vet appointments using Firebase Realtime Database.
+
+### 📊 Data Science Health Insights  
+Trained ML models to analyze patient health risk using scikit-learn and TensorFlow.
+
+### 🧪 Instagram Clone (SQA)  
+Simulated Instagram UI and tested backend logic using **Katalon Studio**.
+
+### 📚 Fastudy – Student Note Sharing App  
+Flutter app allowing students to upload, share, and download PDF notes using Firebase.
+
+### 🎮 Flappy Bird – Python Game  
+Classic game developed using Pygame with collision detection and scoring.
+
+### ❌ XO Game – Python AI Project  
+Console-based Tic Tac Toe game with Minimax algorithm AI bot.
+
+### 📊 Stack & Queue Simulator – C++  
+Desktop GUI application to visualize stack & queue operations using Qt.
+
+### ✈️ Reserva – Travel Booking Website  
+Simulated booking system for bus, flight, and taxi using HTML, CSS, and JavaScript.
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: markamgad18@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/mark-amgad  
+- 🌐 Portfolio: https://mark-a-portfolio.netlify.app/
+
+---
+
+_Always learning. Always building._ 🚀

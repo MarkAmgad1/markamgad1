@@ -62,6 +62,9 @@ Simulated booking system for bus, flight, and taxi using HTML, CSS, and JavaScri
 ![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=markamgad1234&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markamgad1234&layout=compact&theme=radical)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=markamgad1234&theme=dracula)
+![Profile Views](https://komarev.com/ghpvc/?username=markamgad1234&color=blue)
+![Languages](https://img.shields.io/github/languages/top/markamgad1234/MediLink)
+![License](https://img.shields.io/github/license/markamgad1234/MediLink)
 
 
 _Always learning. Always building._ 🚀

@@ -59,5 +59,9 @@ Simulated booking system for bus, flight, and taxi using HTML, CSS, and JavaScri
 - 🌐 Portfolio: https://mark-a-portfolio.netlify.app/
 
 ---
+![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=markamgad1234&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markamgad1234&layout=compact&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=markamgad1234&theme=dracula)
+
 
 _Always learning. Always building._ 🚀

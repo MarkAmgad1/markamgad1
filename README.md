@@ -19,7 +19,7 @@
 
 ## 🚀 Projects
 
-### 🏥 MediLink – Graduation Project  
+### [🏥 MediLink – Graduation Project](https://github.com/markamgad1234/MediLink-Graduation-Project)
 Secure mobile & web system for prescription tracking with:
 - Doctor & pharmacist roles
 - OTP-based patient verification
@@ -41,7 +41,7 @@ Flutter app allowing students to upload, share, and download PDF notes using Fir
 ### 🎮 Flappy Bird – Python Game  
 Classic game developed using Pygame with collision detection and scoring.
 
-### ❌ XO Game – Python AI Project  
+### ❌ [XO Game – Python AI Project](https://github.com/markamgad1234/xo-game)
 Console-based Tic Tac Toe game with Minimax algorithm AI bot.
 
 ### 📊 Stack & Queue Simulator – C++  
@@ -63,8 +63,8 @@ Simulated booking system for bus, flight, and taxi using HTML, CSS, and JavaScri
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markamgad1234&layout=compact&theme=radical)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=markamgad1234&theme=dracula)
 ![Profile Views](https://komarev.com/ghpvc/?username=markamgad1234&color=blue)
-![Languages](https://img.shields.io/github/languages/top/markamgad1234/MediLink)
-![License](https://img.shields.io/github/license/markamgad1234/MediLink)
+![Languages](https://img.shields.io/github/languages/top/markamgad1234/MediLink-Graduation-Project)
+![License](https://img.shields.io/github/license/markamgad1234/MediLink-Graduation-Project)
 
 
 _Always learning. Always building._ 🚀

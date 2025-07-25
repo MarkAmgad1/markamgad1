@@ -44,9 +44,6 @@ Classic game developed using Pygame with collision detection and scoring.
 ### ❌ [XO Game – Python AI Project](https://github.com//MarkAmgad1/xo-game)
 Console-based Tic Tac Toe game with Minimax algorithm AI bot.
 
-### 📊 Stack & Queue Simulator – C++  
-Desktop GUI application to visualize stack & queue operations using Qt.
-
 ### ✈️ [Reserva – Travel Booking Website](https://github.com/MarkAmgad1/Reserva-Booking) 
 Simulated booking system for bus, flight, and taxi using HTML, CSS, and JavaScript.
 

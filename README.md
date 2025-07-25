@@ -19,7 +19,7 @@
 
 ## 🚀 Projects
 
-### [🏥 MediLink – Graduation Project](https://github.com/markamgad1234/MediLink-Graduation-Project)
+### [🏥 MediLink – Graduation Project](https://github.com//MarkAmgad1/MediLink-Graduation-Project)
 Secure mobile & web system for prescription tracking with:
 - Doctor & pharmacist roles
 - OTP-based patient verification
@@ -41,7 +41,7 @@ Flutter app allowing students to upload, share, and download PDF notes using Fir
 ### 🎮 Flappy Bird – Python Game  
 Classic game developed using Pygame with collision detection and scoring.
 
-### ❌ [XO Game – Python AI Project](https://github.com/markamgad1234/xo-game)
+### ❌ [XO Game – Python AI Project](https://github.com//MarkAmgad1/xo-game)
 Console-based Tic Tac Toe game with Minimax algorithm AI bot.
 
 ### 📊 Stack & Queue Simulator – C++  
@@ -49,6 +49,12 @@ Desktop GUI application to visualize stack & queue operations using Qt.
 
 ### ✈️ Reserva – Travel Booking Website  
 Simulated booking system for bus, flight, and taxi using HTML, CSS, and JavaScript.
+
+### 🖼️ [cartoonify](https://github.com/MarkAmgad1/cartoonify-flutter-flask)
+Flutter app + Flask backend to cartoonify images using OpenCV
+
+
+
 
 ---
 

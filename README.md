@@ -26,13 +26,13 @@ Secure mobile & web system for prescription tracking with:
 - AI-based survey analysis
 - Firebase backend + HL7 medical messaging
 
-### 📱 PetCare App  
+### 📱 [PetCare App](https://github.com/MarkAmgad1/PetCare-App)
 Flutter app to track pet vaccinations and vet appointments using Firebase Realtime Database.
 
-### 📊 Data Science Health Insights  
+### 📊 [Data Science Health Insights](https://github.com/MarkAmgad1/Data-Science-Health-Insights)
 Trained ML models to analyze patient health risk using scikit-learn and TensorFlow.
 
-### 🧪 Instagram Clone (SQA)  
+### 🧪 [Instagram Clone (SQA)](https://github.com/MarkAmgad1/-Instagram-Clone-SQA-)
 Simulated Instagram UI and tested backend logic using **Katalon Studio**.
 
 ### 📚 [Fastudy – Student Note Sharing App](https://github.com/MarkAmgad1/Fastudy)  
@@ -47,7 +47,7 @@ Console-based Tic Tac Toe game with Minimax algorithm AI bot.
 ### 📊 Stack & Queue Simulator – C++  
 Desktop GUI application to visualize stack & queue operations using Qt.
 
-### ✈️ Reserva – Travel Booking Website  
+### ✈️ [Reserva – Travel Booking Website](https://github.com/MarkAmgad1/Reserva-Booking) 
 Simulated booking system for bus, flight, and taxi using HTML, CSS, and JavaScript.
 
 ### 🖼️ [cartoonify](https://github.com/MarkAmgad1/cartoonify-flutter-flask)

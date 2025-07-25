@@ -35,10 +35,10 @@ Trained ML models to analyze patient health risk using scikit-learn and TensorFl
 ### 🧪 Instagram Clone (SQA)  
 Simulated Instagram UI and tested backend logic using **Katalon Studio**.
 
-### 📚 Fastudy – Student Note Sharing App  
+### 📚 [Fastudy – Student Note Sharing App](https://github.com/MarkAmgad1/Fastudy)  
 Flutter app allowing students to upload, share, and download PDF notes using Firebase.
 
-### 🎮 Flappy Bird – Python Game  
+### 🎮 [Flappy Bird – Python Game](https://github.com//MarkAmgad1/flappy-bird-pygame)
 Classic game developed using Pygame with collision detection and scoring.
 
 ### ❌ [XO Game – Python AI Project](https://github.com//MarkAmgad1/xo-game)
@@ -65,12 +65,12 @@ Flutter app + Flask backend to cartoonify images using OpenCV
 - 🌐 Portfolio: https://mark-a-portfolio.netlify.app/
 
 ---
-![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=markamgad1234&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markamgad1234&layout=compact&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=markamgad1234&theme=dracula)
-![Profile Views](https://komarev.com/ghpvc/?username=markamgad1234&color=blue)
-![Languages](https://img.shields.io/github/languages/top/markamgad1234/MediLink-Graduation-Project)
-![License](https://img.shields.io/github/license/markamgad1234/MediLink-Graduation-Project)
+![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=markamgad1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markamgad1&layout=compact&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=markamgad1&theme=dracula)
+![Profile Views](https://komarev.com/ghpvc/?username=markamgad1&color=blue)
+![Languages](https://img.shields.io/github/languages/top/markamgad1/MediLink-Graduation-Project)
+![License](https://img.shields.io/github/license/markamgad1/MediLink-Graduation-Project)
 
 
 _Always learning. Always building._ 🚀
